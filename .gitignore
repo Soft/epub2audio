@@ -1,0 +1,4 @@
+*.pyc
+*.egg-info
+*.whl
+/env
